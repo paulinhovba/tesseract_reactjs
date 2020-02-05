@@ -25,6 +25,6 @@ Este protótipo não está em produção nesta data.
 
 ### Meta
 
-Paulinho Monteiro – [Web:http://paulinhomonteiro.com/](http://paulinhomonteiro.com/) – falecompaulinhomonteiro@gmail.com
+Paulinho Monteiro – [http://paulinhomonteiro.com/](http://paulinhomonteiro.com/) – falecompaulinhomonteiro@gmail.com
 
 [https://github.com/paulinhovba](https://github.com/paulinhovba/)
