@@ -6,7 +6,7 @@ O sistema [Github Finder](https://github.com/paulinhovba/tesseract_reactjs) list
 
 > Status do Projeto: Concluido (pode ser melhorado). :heavy_exclamation_mark:
 
-# Recursos para utilização
+# Recursos
 
 1. Faça o clone deste projeto com `https://github.com/paulinhovba/tesseract_reactjs.git`
 2. Faça o deploy para sua hospedagem (nodejs) favorita. 
@@ -17,7 +17,7 @@ O sistema [Github Finder](https://github.com/paulinhovba/tesseract_reactjs) list
 
 ![image](https://user-images.githubusercontent.com/52004768/73850620-cd551700-480a-11ea-986d-0864de760ab4.png)
 
-# Recursos e tecnologias utilizadas
+# Tecnologias
 
 - [x] React JS
 
