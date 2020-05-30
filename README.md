@@ -2,7 +2,7 @@
 
 O sistema [Github Finder](https://github.com/paulinhovba/tesseract_reactjs) lista todos os membros do grupo Tesseract e exibe seus perfis. Também permite consultar users e repositórios diversos no Github.
 
-> Status do Projeto: Em desenvolvimento :heavy_check_mark:
+> Status do Projeto: Concluido (pode ser melhorado). :heavy_exclamation_mark:
 
 # Recursos para utilização
 
